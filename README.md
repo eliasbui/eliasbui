@@ -6,8 +6,7 @@
 
 ### About Me  
 <div align="center">
-<img src="![f1e734f9cade86fe737a9aa404ad5677](https://github.com/Dthai16gg/Dthai16gg/assets/88380128/203786c5-7628-4032-a782-b428c1ac053f)
-">
+<img src="=https://github.com/Dthai16gg/Dthai16gg/assets/88380128/203786c5-7628-4032-a782-b428c1ac053f">
 </div>  
   
 
