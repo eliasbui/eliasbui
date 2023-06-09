@@ -6,7 +6,7 @@
 
 ### About Me  
 <div align="center">
-![lv](https://github.com/Dthai16gg/Profile/assets/88380128/164d2dcb-5d71-482c-8c5e-88a82f7fd2bd)
+<img src="https://github.com/Dthai16gg/Profile/assets/88380128/164d2dcb-5d71-482c-8c5e-88a82f7fd2bd">
 </div>  
   
 
