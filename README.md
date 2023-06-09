@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Retina&weight=600&pause=1000&color=F74BB7&background=1FFF3E00&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+My+Name+is+DThai16gg;I'm+Developer)]
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Retina&weight=600&pause=1000&color=F74BB7&background=1FFF3E00&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+My+Name+is+DThai16gg;I'm+Developer)
 
 
 
