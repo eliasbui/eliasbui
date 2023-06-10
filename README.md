@@ -9,7 +9,7 @@
 
 ### About Me  
 <div align="center">
-<img src="https://github.com/Dthai16gg/Dthai16gg/assets/88380128/203786c5-7628-4032-a782-b428c1ac053f">
+<a href="https://app.daily.dev/dthai16"><img src="https://api.daily.dev/devcards/1648b7ab7603493490760f70867f32f3.png?r=c2v" width="400" alt="DoanhThaiBui.03's Dev Card"/></a>
 </div>  
   
 
@@ -172,7 +172,8 @@ If things goes well, this section should automatically be replaced by a list of 
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="center"
                 />
-            </a></div>
+            </a>
+</div>
 <br />
 
 ----
