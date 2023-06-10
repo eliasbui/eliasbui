@@ -166,7 +166,9 @@ If things goes well, this section should automatically be replaced by a list of 
   
 
 <br/>  
-## Buy Me Coffee  
+
+### Buy Me Coffee  
+
 <div align="center">
             <a href="#" target="_blank" style="display: inline-block;">
                 <img
