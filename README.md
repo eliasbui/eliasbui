@@ -17,7 +17,7 @@
 
 
 ### Work  
-### ***<div align="right">I'm Dthai, a full-time full-stack software developer 👨‍💻 working since 2023 </div>***  
+### ***<div align="center">I'm Dthai, a full-time full-stack software developer 👨‍💻 working since 2023 </div>***  
   
 
 - 🔭 I’m currently working on [FPT](https://fpt.com.vn/en)  
