@@ -1,26 +1,15 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Retina&weight=600&pause=1000&color=F74BB7&background=1FFF3E00&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+My+Name+is+DThai16gg)
 
-
-
-
-
 ## Intro  
-
-
 ### About Me  
 <div>
-  <a align="left" href="https://app.daily.dev/dthai16"><img src="https://api.daily.dev/devcards/1648b7ab7603493490760f70867f32f3.png?r=c2v" width="300" alt="DoanhThaiBui.03's DevCard"/></a>
   <img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FGfSX-u7VGM4AAAAC%2Fcoding.gif&f=1&nofb=1&ipt=30a4578d2ce88c9759b5ece6963fe00bd20c5151217f668964210898aaba2746&ipo=images"  alt="DoanhThaiBui.03's DevCard"/>
 </div>  
-  
 
-
-
-### Work  
 ### ***<div align="center">I'm Dthai, a full-time full-stack software developer 👨‍💻 working since 2023 </div>***  
   
 
-- 🔭 I’m currently working on [FPT](https://fpt.com.vn/en)  
+- 🔭I'm Student
   
 
 - 🌱 I’m currently learning Vuejs and Non SQL  
