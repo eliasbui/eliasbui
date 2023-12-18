@@ -47,3 +47,9 @@
 <img src="https://raw.githubusercontent.com/eliasbui/eliasbui/output/snake.svg" alt="Snake animation" />
 
 ###
+
+### 📺 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/eliasbui/count.svg)
+
+### ☕ Buy me a coffee
+<a href="https://www.buymeacoffee.com/thaibdtg161" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="35" ></a>
