@@ -1,5 +1,6 @@
-<h2 align="left">Hi 👋! My name eliasbui and I'm a backend developer, from Viet Nam </h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Mono&weight=350&size=24&duration=2000&pause=500&color=F74795&background=60BCFF00&vCenter=true&multiline=true&random=true&width=800&lines=Hi+%F0%9F%91%8B!+My+name+eliasbui+and+I'm+a+backend+developer%2C+from+Viet+Nam)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Work+Hard+-+Play+Hard.+No+pain+no+gain)](https://git.io/typing-svg)
 ###
 
 <div align="center">
